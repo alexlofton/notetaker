@@ -1,0 +1,1 @@
+/// use express router to create get and post routes at /api/notes
